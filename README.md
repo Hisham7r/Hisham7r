@@ -27,7 +27,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const hisham = {
@@ -42,7 +42,7 @@ const hisham = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -61,9 +61,9 @@ const hisham = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏋️ FitPro — Fitness Web Application
+###  FitPro — Fitness Web Application
 > A full-stack fitness platform built with a team of two.
 
 - Designed and managed the database to store user fitness data
@@ -72,7 +72,7 @@ const hisham = {
 
 ---
 
-### 🔐 NFC Security Enhancement Module
+###  NFC Security Enhancement Module
 > A hardware + software security gadget designed for campus safety.
 
 - Built with **Arduino (C++)** and custom **circuit design**
@@ -80,7 +80,7 @@ const hisham = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -92,7 +92,7 @@ const hisham = {
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 ```python
 interests = [
@@ -108,10 +108,10 @@ for topic in interests:
 
 ---
 
-## 🤝 Campus Involvement
+##  Campus Involvement
 
-- 🫶 **WeCare IMS Peshawar** — Volunteer
-- 🎯 **DevFest, Google Developer Group @ IMS** — Volunteer
+-  **WeCare IMS Peshawar** — Volunteer
+-  **DevFest, Google Developer Group @ IMS** — Volunteer
 
 ---
 
